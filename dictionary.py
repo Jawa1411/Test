@@ -6,7 +6,7 @@ tel['irv'] = 2345
 print(tel)
 print(list(tel))
 print(sorted(tel))
-print('guido' in tel)
+# print('guido' in tel)
 
 my_dict = dict([('caleb', 8897), ('ram',7664), ('jawa',9783)])
 sqr_dict = {x: x**2 for x in (2,3,4)}
